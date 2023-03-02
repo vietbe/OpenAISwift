@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OpenAISwift",
+        "repositoryURL": "https://github.com/adamrushy/OpenAISwift.git",
+        "state": {
+          "branch": "main",
+          "revision": "cd4a532766b3bca303db070000559dd5ad67a639",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
